@@ -1,1 +1,1 @@
-![GitHub Logo](/perfectsnake.gif)
+![perfectsnake](https://i.imgur.com/dAtcCfH.gif)
